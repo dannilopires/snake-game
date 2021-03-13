@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#snake {
+    width:500px;
+    height: 500px;
+    border: solid black 1px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+p {
+    font-size: 40px;
+    color: rgb(7, 34, 7);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+span {
+    border: solid black 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    background-color: rgb(27, 51, 27);
+    color: white;
+    margin-top: 10px;
+
+}
