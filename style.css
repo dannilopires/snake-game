@@ -1,12 +1,6 @@
 
 #snake {
-    width:512px;
-    height: 512px;
     border: solid black 1px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 15px;
 }
 
 p {
